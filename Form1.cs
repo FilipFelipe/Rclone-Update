@@ -82,7 +82,7 @@ namespace Rclone_Update
         {
             ProcessStartInfo startInfo = new ProcessStartInfo("rclone\\rclone.exe");
             startInfo.WindowStyle = ProcessWindowStyle.Minimized;
-            startInfo.Arguments = "config n";
+            startInfo.Arguments = "config";
             Process.Start(startInfo);
         }
     }
