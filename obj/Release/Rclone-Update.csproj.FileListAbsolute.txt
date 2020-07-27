@@ -1,0 +1,9 @@
+C:\Users\filip\source\repos\Rclone-Update\Rclone-Update\bin\Release\Rclone-Update.exe.config
+C:\Users\filip\source\repos\Rclone-Update\Rclone-Update\bin\Release\Rclone-Update.exe
+C:\Users\filip\source\repos\Rclone-Update\Rclone-Update\bin\Release\Rclone-Update.pdb
+C:\Users\filip\source\repos\Rclone-Update\Rclone-Update\obj\Release\Rclone_Update.Main.resources
+C:\Users\filip\source\repos\Rclone-Update\Rclone-Update\obj\Release\Rclone_Update.Properties.Resources.resources
+C:\Users\filip\source\repos\Rclone-Update\Rclone-Update\obj\Release\Rclone-Update.csproj.GenerateResource.cache
+C:\Users\filip\source\repos\Rclone-Update\Rclone-Update\obj\Release\Rclone-Update.csproj.CoreCompileInputs.cache
+C:\Users\filip\source\repos\Rclone-Update\Rclone-Update\obj\Release\Rclone-Update.exe
+C:\Users\filip\source\repos\Rclone-Update\Rclone-Update\obj\Release\Rclone-Update.pdb

@@ -1,0 +1,10 @@
+C:\Users\filip\source\repos\Rclone-Update\Rclone-Update\bin\Debug\Rclone-Update.exe.config
+C:\Users\filip\source\repos\Rclone-Update\Rclone-Update\bin\Debug\Rclone-Update.exe
+C:\Users\filip\source\repos\Rclone-Update\Rclone-Update\bin\Debug\Rclone-Update.pdb
+C:\Users\filip\source\repos\Rclone-Update\Rclone-Update\obj\Debug\Rclone-Update.csprojAssemblyReference.cache
+C:\Users\filip\source\repos\Rclone-Update\Rclone-Update\obj\Debug\Rclone_Update.Properties.Resources.resources
+C:\Users\filip\source\repos\Rclone-Update\Rclone-Update\obj\Debug\Rclone-Update.csproj.GenerateResource.cache
+C:\Users\filip\source\repos\Rclone-Update\Rclone-Update\obj\Debug\Rclone-Update.csproj.CoreCompileInputs.cache
+C:\Users\filip\source\repos\Rclone-Update\Rclone-Update\obj\Debug\Rclone-Update.exe
+C:\Users\filip\source\repos\Rclone-Update\Rclone-Update\obj\Debug\Rclone-Update.pdb
+C:\Users\filip\source\repos\Rclone-Update\Rclone-Update\obj\Debug\Rclone_Update.Main.resources
